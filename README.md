@@ -2,8 +2,7 @@
 <img align='right' src="https://shorturl.at/lYHwy" width="230">
 <p><em>A student of System Analysis and Development at <a href="https://www.ifpi.edu.br/">Federal Institute of Piauí</a><img src="https://shorturl.at/lxYx6" 
 
-[![Linkedin: marialuizamorais](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuiza-morais/)](https://www.linkedin.com/in/marialuiza-morais/)
-[![GitHub MariaLuiza](https://github.com/malusccp)
+[YOUR_DOMAIN]/user?username=[https://www.linkedin.com/in/marialuiza-morais/]
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=14uzegibvp8xtptd6svfoyfc1&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=e8c517&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
