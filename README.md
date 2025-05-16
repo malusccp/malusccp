@@ -1,6 +1,5 @@
 <h2> Hi, I'm Maria Luiza! <img src="https://shorturl.at/yHnfV" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc2MjIzdGE3Zm84aWUzNW5jZ3F3bHpwOGF5NmJpa2U4MXV2NmFzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlSSSPTpFBiWX5cPEP/giphy.gif" width="230">
-<p><em>A student of System Analysis and Development at <a href="https://www.ifpi.edu.br/">Federal Institute of Piauí</a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhlcHFxaGpjNXdoanJqZWV0cWNrcjNyZWNkMW5yNjIxcjkzaTc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" 
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc2MjIzdGE3Zm84aWUzNW5jZ3F3bHpwOGF5NmJpa2U4MXV2NmFzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wlSSSPTpFBiWX5cPEP/giphy.gif"width="230"><p><em>A student of System Analysis and Development at <a href="https://www.ifpi.edu.br/">Federal Institute of Piauí</a<imgsrc="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhlcHFxaGpjNXdoanJqZWV0cWNrcjNyZWNkMW5yNjIxcjkzaTc4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" 
 
 
 [YOUR_DOMAIN]/user?username=[https://www.linkedin.com/in/marialuiza-morais/]
