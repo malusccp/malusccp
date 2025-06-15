@@ -1,6 +1,6 @@
-
 # 🐝 **Olá, eu sou Malu!**  
-![Abelha animada](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21mYWwwam1pd3Jta29zMnplZWk3Z3JscHoxMHhvN3c0czJ3N3R5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8XLZn5RuhXnZotOF82/giphy.gif)
+![Abelha trabalhando](https://media.giphy.com/media/ZBNG4eLum4Z6wFpQLK/giphy.gif)
+
 
 ### 🎮 **Desenvolvedor em Formação** | **Estudante de ADS no IFPI - Teresina/PI**  
 
