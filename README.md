@@ -1,4 +1,4 @@
-# 🐝 **Olá, eu sou Malu!**  
+# 🐝 **Olá, meu nome é Maria Luiza!**  
 ### 🎮 **Desenvolvedor em Formação** | **Estudante de ADS no IFPI - Teresina/PI**  
 
 <div align="center">
