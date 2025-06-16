@@ -1,5 +1,5 @@
 # 🐝 **Olá, meu nome é Maria Luiza!**  
-### 🎮 **Desenvolvedor em Formação** | **Estudante de ADS no IFPI - Teresina/PI**  
+### 🎮 **Desenvolvedora em Formação** | **Estudante de ADS no IFPI - Teresina/PI**  
 
 <div align="center">
   <a href="https://github.com/malusccp">
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 **Sobre Mim**  
+## 👩🏽‍💻 **Sobre Mim**  
 
 - 🏡 **De:** Teresina, Piauí  
 - 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas no IFPI  
