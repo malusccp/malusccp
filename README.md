@@ -15,10 +15,9 @@
 ## 👩🏽‍💻 **Sobre Mim**  
 
 - 🏡 **De:** Teresina, Piauí  
-- 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas no IFPI  
-- 💡 **Interesses:** Desenvolvimento de Games 🎮 e Backend 💻  
+- 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas no IFPI    
 - 🌱 **Atualmente aprendendo:** Linguagem C e Python  
-- 🐝 **Curiosidade:** Adoro abelhas e sua organização 
+- 🐝 **Curiosidade:** Adoro abelhas 
 
 ---
 
