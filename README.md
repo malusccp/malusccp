@@ -2,7 +2,7 @@
 ### 🎮 **Desenvolvedora em Formação** | **Estudante de ADS no IFPI - Teresina/PI**  
 
 # 💫 About Me:
-🏡 De: Teresina, Piauí<br>🎓 Cursando: Análise e Desenvolvimento de Sistemas no IFPI<br>🌱 Atualmente aprendendo: Linguagem C e Python<br>🐝 Curiosidade: Adoro abelhas
+🏡 De: Teresina, Piauí<br>🎓 Cursando: Análise e Desenvolvimento de Sistemas no IFPI<br>🐝 Curiosidade: Adoro abelhas<br>
 
 
 ## 🌐 Socials:
